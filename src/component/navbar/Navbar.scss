@@ -1,9 +1,10 @@
-@import "../../scss/variable", "../../scss/mixin";
+@import "../../scss/variables", "../../scss/mixin";
 
 
 .navbar{
     width: 100%;
     display: flex;
+    flex-direction: row;
     justify-content: space-evenly;
     background-color: $cardNavBgColor;
     // padding: 0.3rem;
@@ -36,13 +37,6 @@
 }
 @include media-sm{
     .navbar{
-        flex-direction: column;
-        a{
-            padding: 1.3rem;
-            &:last-child{
-                margin-bottom: 0rem;
-        }
-            
-        }
+        flex-direction: row;
     }
 }
