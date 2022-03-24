@@ -1,4 +1,4 @@
-@import "../../scss/variable", "../../scss/mixins";
+@import "../../scss/variable", "../../scss/mixin";
 
 
 .navbar{
@@ -36,7 +36,7 @@
 }
 @include media-sm{
     .navbar{
-        flex-direction: row;
+        flex-direction: column;
         a{
             padding: 1.3rem;
             &:last-child{
