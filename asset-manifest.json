@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/journeyguide/static/css/main.616cb476.css",
+    "main.js": "/journeyguide/static/js/main.51424b1c.js",
+    "index.html": "/journeyguide/index.html",
+    "main.616cb476.css.map": "/journeyguide/static/css/main.616cb476.css.map",
+    "main.51424b1c.js.map": "/journeyguide/static/js/main.51424b1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616cb476.css",
+    "static/js/main.51424b1c.js"
+  ]
+}
