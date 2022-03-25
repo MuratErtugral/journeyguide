@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/journeyguide/static/css/main.616cb476.css",
-    "main.js": "/journeyguide/static/js/main.51424b1c.js",
+    "main.css": "/journeyguide/static/css/main.b2a7015f.css",
+    "main.js": "/journeyguide/static/js/main.271a4b76.js",
     "index.html": "/journeyguide/index.html",
-    "main.616cb476.css.map": "/journeyguide/static/css/main.616cb476.css.map",
-    "main.51424b1c.js.map": "/journeyguide/static/js/main.51424b1c.js.map"
+    "main.b2a7015f.css.map": "/journeyguide/static/css/main.b2a7015f.css.map",
+    "main.271a4b76.js.map": "/journeyguide/static/js/main.271a4b76.js.map"
   },
   "entrypoints": [
-    "static/css/main.616cb476.css",
-    "static/js/main.51424b1c.js"
+    "static/css/main.b2a7015f.css",
+    "static/js/main.271a4b76.js"
   ]
 }
